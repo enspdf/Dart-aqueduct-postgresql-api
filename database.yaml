@@ -1,0 +1,5 @@
+username: "fave_reads_user"
+password: "password"
+host: "localhost"
+port: 5432
+databaseName: "fave_reads"
